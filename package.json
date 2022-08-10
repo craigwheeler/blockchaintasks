@@ -1,0 +1,29 @@
+{
+  "name": "blockchaintasks.com",
+  "version": "1.0.0",
+  "description": "A minimal blockchain todo dapp using Hardhat, Ethers and OpenZeppelin!",
+  "main": "index.js",
+  "scripts": {
+    "client-install": "yarn --cwd ./client/",
+    "client-run": "yarn --cwd ./client/ dev",
+    "dev": "yarn client-install && yarn client-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigwheeler/blockchaintasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigwheeler/blockchaintasks/issues"
+  },
+  "homepage": "https://github.com/craigwheeler/blockchaintasks#readme",
+  "devDependencies": {
+    "concurrently": "^7.3.0",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
