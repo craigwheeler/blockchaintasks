@@ -9,8 +9,7 @@
 
   <p align="center">
     A minimal blockchain todo dapp using Hardhat, Ethers and OpenZeppelin!<br />
-    <a href=""><strong>Explore the docs »</strong></a><br /><br />
-    <a href="https://blockchaintasks.com">View Demo</a> · <a href="">Report Bug</a> · <a href="">Request Feature</a>
+   <a href="https://blockchaintasks.com">View Demo</a><br /><br />
   </p>
 
   <p align="center">
